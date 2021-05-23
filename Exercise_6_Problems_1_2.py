@@ -99,6 +99,7 @@ avg_temp = None
 # YOUR CODE HERE 7
 avg_temp = np.mean(data.iloc[:, 6])
 
+
 #CAUTION!!! DON'T EDIT THIS PART START
 # Print out the solution:
 print('Average temperature (F) for the whole dataset:', round(avg_temp, 2))
